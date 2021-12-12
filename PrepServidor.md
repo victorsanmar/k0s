@@ -4,6 +4,6 @@ Seleccionamos los recursos de nuestra máquina que en este caso sera un Debian 1
 
 ![servidor](https://github.com/victorsanmar/k0s/blob/main/imagenes/cloud.PNG)
 
-Una vez creado la instancia y cuando este activa accedemos por ssh mediante la ip publica y la clave que nos genera clouding.io
+Una vez creado la instancia y cuando esté activa accedemos por ssh mediante la ip pública y la clave que nos genera clouding.io
 
 ![servidor2](https://github.com/victorsanmar/k0s/blob/main/imagenes/cloud2.PNG)
