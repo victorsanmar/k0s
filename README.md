@@ -17,4 +17,4 @@ En este proyecto daremos las pautas necesarias para poder lanzar k0s en una VPS,
 [¿Qué es k0s?](https://tech-es.netlify.app/articles/es534490/index.html)  
 [¿Qué es clouding.io?](https://blog.nubecolectiva.com/que-es-clouding-io-y-otros-detalles/) 
 ## Licencia
-- [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png) 
+![Licencia](https://github.com/victorsanmar/k0s/blob/main/imagenes/licencia.PNG) 
