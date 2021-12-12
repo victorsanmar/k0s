@@ -1,4 +1,4 @@
-# Instalación de k0s en un nodo.
+# Instalación de k0s.
 ### 1.- Descarga de k0s
 
 ``` ruby 
