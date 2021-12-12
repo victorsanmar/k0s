@@ -1,5 +1,5 @@
 # k0s
-![logoLinux](https://github.com/anasalasro/k0s/blob/main/imagenes/k0s.png)
+![logoK0s](https://github.com/victorsanmar/k0s/blob/main/imagenes/k0s-blog-image.png)
 ## Descripción
 
 En este proyecto daremos las pautas necesarias para poder lanzar k0s en una VPS, será una instalación fácil y ligera.
